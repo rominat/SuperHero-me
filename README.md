@@ -1,6 +1,7 @@
 # SuperHero-me
-https://partyrock.aws/u/rominat/rk-hLkL3H/Superhero-ME!
+https://partyrock.aws/u/rominat/rk-hLkL3H/Superhero-ME
 
-An AI generated application I created for my 3 year old son powered by Amazon Bedrock
+An toddler inspired AI generated application I created using Amazon Party Rock powered by Amazon Bedrock! 
+
 
 ![Screen Shot 2024-02-14 at 2 10 00 PM](https://github.com/rominat/SuperHero-me/assets/40639100/14268ecb-631f-410e-87f6-2aa434bcedce)
